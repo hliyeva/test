@@ -1,6 +1,5 @@
 {
-  "name": "NOTCOIN",
-  "description": "Little notcoin, this is Smeshariki | Visit ɴᴏᴛᴄᴏɪɴ.ʙᴏʟᴅ",
+  "image": "https://i.yapx.cc/X4Pkf.png",
   "attributes": [
     {
       "trait_type": "Official",
@@ -11,5 +10,6 @@
       "value": "True"
     }
   ],
-  "image": "https://i.postimg.cc/ncMCMsg9/Grief.webp"
+  "description": "🎉 Congrats! You've won a free spin from Notcoin! 🎰\n🌐 Visit ɴᴏᴛ.ʙɪɴɢᴏ online and claim your reward! 🎁",
+  "name": "NOTCOIN"
 }
